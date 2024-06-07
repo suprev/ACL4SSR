@@ -1,0 +1,7 @@
+  - DOMAIN-SUFFIX,google.com,Auto
+  - DOMAIN-SUFFIX,googleapis.com,Auto
+  - DOMAIN-SUFFIX,gstatic.com,Auto
+  - DOMAIN-SUFFIX,googlesyndication.com,Auto
+  - DOMAIN-SUFFIX,google-analytics.com,Auto
+  - DOMAIN-SUFFIX,googleusercontent.com,Auto
+  - DOMAIN-SUFFIX,youtube.com,Auto
